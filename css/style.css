@@ -1,0 +1,267 @@
+.container {
+    width: 1200px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+.row {
+	display:flex;
+	flex-wrap:wrap;
+	margin: 0 -15px;
+}
+.col-lg-1 {
+	width: 8.33%;
+	padding: 0 15px;
+}
+.col-lg-2 {
+	width: 16.66%;
+	padding: 0 15px;
+}
+.col-lg-3 {
+	width: 25%;
+	padding: 0 15px;
+}
+.col-lg-4 {
+	width: 33.33%;
+	padding: 0 15px;
+}
+.col-lg-5 {
+	width: 41.66%;
+	padding: 0 15px;
+}
+.col-lg-6 {
+	width: 50%;
+	padding: 0 15px;
+}
+.col-lg-7 {
+	width: 58.33%;
+	padding: 0 15px;
+}
+.col-lg-8 {
+	width: 66.66%;
+	padding: 0 15px;
+}
+.col-lg-9 {
+	width: 75%;
+	padding: 0 15px;
+}
+.col-lg-10 {
+	width: 83.33%;
+	padding: 0 15px;
+}
+.col-lg-11 {
+	width: 91.66%;
+	padding: 0 15px;
+}
+.col-lg-12 {
+	width: 100%;
+	padding: 0 15px;
+}
+/*---------- header start -----------*/
+.header-content {
+	background: black;
+     padding: 10px 0;
+}
+.logo-nav {
+	background: lightgray;
+	height: 50px;
+}
+/*---------- banner1 start -----------*/
+.banner-content {
+	background: lightgray;
+	padding: 100px 0;
+	height: 400px;
+}
+.banner-information {
+	height: 200px;
+	background: black;
+}
+/*---------- option-logo start -----------*/
+.row-logo-option {
+	background: black;
+	height: 90px;
+	padding: 20px 0;
+}
+.logo-collection {
+	background: lightgray;
+	height: 50px;
+}
+/*---------- about-us start -----------*/
+.about-us {
+	background: lightgray;
+	padding: 20px 0;
+	height: 500px;
+}
+.about-us-information {
+	background: black;
+	height: 450px;
+}
+.row-content {
+	background: black;
+	height: 215px;
+	margin-bottom: 20px;
+}
+/*---------- emoji start -----------*/
+.emoji-options {
+	background: black;
+	height: 150px;
+	padding: 25px 0;
+}
+.emoji {
+	background: lightgray;
+	height: 100px;
+}
+.skill-content {
+	background: lightgray;
+	height: 500px;
+	padding: 20px 0;
+}
+/*---------- skill start -----------*/
+.skill-collection {
+	background: black;
+	height:100px;
+	margin-bottom: 20px;
+}
+.skill-passage {
+	background: black;
+	height: 300px;
+}
+/*---------- banner2 start -----------*/
+.services {
+    background: black;
+    height: 530px;
+	padding: 20px 0;
+}
+.services-content {
+	height: 150px;
+    background: lightgray;
+	margin-bottom: 20px;
+}
+.row-services-passage {
+	background: lightgray;
+	height: 90px;
+	margin-bottom: 20px;
+}
+/*---------- advertisement start -----------*/
+.advertisement-content {
+	background: lightgray;
+	height: 650px;
+	padding: 20px 0;
+}
+.advertisement-information {
+    background: black;
+	height: 100px;
+	margin-bottom: 20px;
+}
+.advertisement-image {
+	background: black;
+	height: 150px; 
+	margin-bottom: 20px;
+}
+/*---------- expert-content start -----------*/
+.expert-content {
+	background: black;
+	height: 400px;
+	padding: 20px 0;
+}
+.expert-information {
+	background: lightgray;
+	height: 100px;
+	margin-bottom: 20px;
+}
+.expert-list {
+	background: lightgray;
+	height: 200px;
+}
+/*---------- cost start -----------*/
+.cost {
+    background: lightgray;
+	height: 450px;
+	padding: 20px 0;
+}
+.cost-information {
+	background: black;
+	height: 100px;
+	margin-bottom: 20px;
+}
+.row-cost-passage {
+   background: black;
+	height: 300px;
+}
+/*---------- questions-content start -----------*/
+.questions-content {
+	background: black;
+	height: 350px;
+	padding: 20px 0;
+}
+.questions {
+	background: lightgray;
+	height: 100px;
+	margin-bottom: 20px;
+}
+.questions-list {
+	background: lightgray;
+	height: 200px;
+}
+/*---------- banner3 start -----------*/
+.team {
+    background: lightgray;
+	height: 450px;
+	padding: 20px 0;
+}
+.team-information {
+	background: black;
+	height: 100px;
+	margin-bottom: 20px;
+}
+.row-team-passage {
+   background: black;
+	height: 300px;
+}
+/*---------- forms start -----------*/
+.contact-content {
+    background: black;
+	height: 450px;
+	padding: 20px 0;
+}
+.contact-information {
+	background: lightgray;
+	height: 100px;
+	margin-bottom: 20px;
+}
+.contact-details {
+	background: lightgray;
+	height: 150px;
+	margin-bottom: 20px;
+}
+.email-details {
+	background: lightgray;
+	height: 100px;
+}
+.mobile-details {
+	background: lightgray;
+	height: 100px;
+}
+.forms-details {
+	background: lightgray;
+	height: 300px;
+}
+/*---------- web-details start -----------*/
+.web-details-content {
+	background: lightgray;
+	height: 300px;
+	padding: 25px 0;
+}
+.web-information {
+	background: black;
+	height: 200px;
+}
+/*---------- footer start -----------*/
+.footer-content {
+	background: black;
+	height: 70px;
+	padding: 25px 0;
+}
+.footer-information {
+	background: lightgray;
+	height: 20px;
+}
